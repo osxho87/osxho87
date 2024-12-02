@@ -5,7 +5,7 @@
 <img src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/media/a26e46eb4800c8991e14a6f6e32dba1e.gif">
 
   <script src="https://cdn.tailwindcss.com"></script>
-</head>
+
 <body>
 <nav class="flex items-center justify-between p-6 lg:px-8" aria-label="Global">
       <div class="flex lg:flex-1">
